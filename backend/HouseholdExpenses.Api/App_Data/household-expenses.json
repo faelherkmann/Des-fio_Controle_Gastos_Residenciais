@@ -1,0 +1,115 @@
+{
+  "people": [
+    {
+      "id": "6c221914-d5d7-408b-9b0c-3b7db6d3856f",
+      "name": "Maria Clara",
+      "age": 23
+    },
+    {
+      "id": "cb625491-351b-4918-a8fb-a8b2032622c1",
+      "name": "Anastasia",
+      "age": 4
+    },
+    {
+      "id": "636915cc-e78b-41fa-acd3-2581ce3ae5b3",
+      "name": "Raphael Herkmann",
+      "age": 28
+    },
+    {
+      "id": "6e23bccc-576f-481b-98d8-1470c4c362c9",
+      "name": "Sandra",
+      "age": 67
+    },
+    {
+      "id": "a93f9f08-3e49-4686-8966-1ce79681b2e9",
+      "name": "Nildo",
+      "age": 55
+    }
+  ],
+  "transactions": [
+    {
+      "id": "8ba0bfbc-9a85-4c5f-8585-331523c89d4f",
+      "description": "Formatura",
+      "value": 250,
+      "type": 0,
+      "personId": "6c221914-d5d7-408b-9b0c-3b7db6d3856f"
+    },
+    {
+      "id": "09743ec0-e688-4ca0-9eea-c73896fa00b6",
+      "description": "creche",
+      "value": 150,
+      "type": 0,
+      "personId": "cb625491-351b-4918-a8fb-a8b2032622c1"
+    },
+    {
+      "id": "9d90a97b-cf9d-49ca-b397-f4e5021557df",
+      "description": "Sal\u00E1rio",
+      "value": 3200,
+      "type": 1,
+      "personId": "636915cc-e78b-41fa-acd3-2581ce3ae5b3"
+    },
+    {
+      "id": "a92efdcf-6563-4775-9b98-a47c09cc5331",
+      "description": "S\u00E1lario",
+      "value": 2800,
+      "type": 1,
+      "personId": "6c221914-d5d7-408b-9b0c-3b7db6d3856f"
+    },
+    {
+      "id": "5a630071-90bc-4167-85d7-afa9a9ed69e2",
+      "description": "Conta de Luz",
+      "value": 280.32,
+      "type": 0,
+      "personId": "6c221914-d5d7-408b-9b0c-3b7db6d3856f"
+    },
+    {
+      "id": "66d744c5-50bf-459b-a238-63e4fbd7bf6e",
+      "description": "Conta de \u00C1gua",
+      "value": 130.27,
+      "type": 0,
+      "personId": "636915cc-e78b-41fa-acd3-2581ce3ae5b3"
+    },
+    {
+      "id": "90ebc313-7af7-4337-9dc6-133e9b8a3ec0",
+      "description": "Internet",
+      "value": 129.9,
+      "type": 0,
+      "personId": "636915cc-e78b-41fa-acd3-2581ce3ae5b3"
+    },
+    {
+      "id": "26924994-c617-478b-a683-d5e7984452b1",
+      "description": "Despesa Alimenta\u00E7\u00E3o",
+      "value": 1.48,
+      "type": 0,
+      "personId": "636915cc-e78b-41fa-acd3-2581ce3ae5b3"
+    },
+    {
+      "id": "1cfa8308-15f9-4cb1-9049-45c77031c272",
+      "description": "internet",
+      "value": 128.99,
+      "type": 0,
+      "personId": "636915cc-e78b-41fa-acd3-2581ce3ae5b3"
+    },
+    {
+      "id": "cb59af5b-f190-44c5-99e2-b3d572a75b70",
+      "description": "Despesa Alimenta\u00E7\u00E3o",
+      "value": 1480,
+      "type": 0,
+      "personId": "6c221914-d5d7-408b-9b0c-3b7db6d3856f"
+    },
+    {
+      "id": "bd9f7e26-a125-4db6-9914-d25fbc824295",
+      "description": "Tratamento dos Dentes",
+      "value": 1000,
+      "type": 0,
+      "personId": "6e23bccc-576f-481b-98d8-1470c4c362c9"
+    },
+    {
+      "id": "39151f73-c7ae-4c89-835c-cba70fa08268",
+      "description": "S\u00E1lario",
+      "value": 9000,
+      "type": 1,
+      "personId": "a93f9f08-3e49-4686-8966-1ce79681b2e9"
+    }
+  ]
+}
